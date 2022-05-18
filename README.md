@@ -1,7 +1,7 @@
 # 19ECB132
 ## INDEX
 
-[bhavana.c](https://github.com/gopalapubhavana/19ECB132/blob/main/1_bhavana.c)
+[bhavana.c]1_bhavana.c)
 
 [add,delete,insert in array.c](https://github.com/gopalapubhavana/19ECB132/blob/main/add%2Cdelete%2Cinsert%20in%20an%20array.c)
 
