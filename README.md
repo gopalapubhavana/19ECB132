@@ -13,7 +13,7 @@
 
 [insertion.c](insertion.c)
 
-[length-of_string.c](length_of_string.c)
+[length_of_string.c](length_of_string.c)
 
 [linear_data_structures.c](linear_data_%20structures.c)
 
