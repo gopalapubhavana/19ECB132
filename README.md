@@ -9,3 +9,4 @@ https://github.com/gopalapubhavana/19ECB132/blob/main/length_of_string.c
 https://github.com/gopalapubhavana/19ECB132/blob/main/linear_data_%20structures.c
 https://github.com/gopalapubhavana/19ECB132/blob/main/linked%20lists.c
 https://github.com/gopalapubhavana/19ECB132/blob/main/position.c
+https://github.com/gopalapubhavana/19ECB132/blob/main/single%20linked%20list.c
