@@ -6,3 +6,4 @@ https://github.com/gopalapubhavana/19ECB132/blob/main/binary_tree.c
 https://github.com/gopalapubhavana/19ECB132/blob/main/doublelinkedlist.c
 https://github.com/gopalapubhavana/19ECB132/blob/main/insertion.c
 https://github.com/gopalapubhavana/19ECB132/blob/main/length_of_string.c
+https://github.com/gopalapubhavana/19ECB132/blob/main/linear_data_%20structures.c
