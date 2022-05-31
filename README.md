@@ -1,7 +1,5 @@
 # 19ECB132
 ## INDEX
-
-[bhavana.c](1_bhavana.c)   
 [add_delete_insert_in_array.c](add%2Cdelete%2Cinsert%20in%20an%20array.c)   
 [single_linked_lists.c](add%2Cdelete%2Cmodify%20in%20single%20linked%20list.c)   
 [binary_tree.c](binary_tree.c)   
