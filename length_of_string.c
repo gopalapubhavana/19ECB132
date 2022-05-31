@@ -29,6 +29,7 @@ int main()
     return 0;
 }
 /*
+output:
 abba is a palindrome
 abbccbba is a palindrome
 geeks is not a palindrome

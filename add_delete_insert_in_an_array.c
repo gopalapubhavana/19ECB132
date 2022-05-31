@@ -75,10 +75,10 @@ int main()
     {
         printf("Wrong choice");
     }
-    return 0;
-}
+    return
+      }   
 /*
-19ECB132-3$ ./a.out
+output:
 Enter size of array3
 Enter 1 element1
 Enter 2 element2

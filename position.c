@@ -22,7 +22,7 @@ int main()
 	
   	return 0;
 }
-/* output 
+/* output :
  Please Enter any String :  1
 
  Please Enter the Character that you want to Search for :  1

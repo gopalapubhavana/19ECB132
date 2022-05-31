@@ -150,6 +150,7 @@ int main() {
   printList(head);
 }
 /*
+output:
 Linked list:  3  2  5  1  4 
 After deleting an element:  2  5  1  4 
 3 is not found

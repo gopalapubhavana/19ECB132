@@ -83,6 +83,7 @@ void displayList()
     }
 } 
 /*
+output:
 Linked List : To create and display Singly Linked List :
 -------------------------------------------------------------
  Input the number of nodes : 3

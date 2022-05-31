@@ -132,7 +132,7 @@ int main(void) {
     
   }
 }
-/* output
+/* output:
 
 1. Stack using Array
 2. Queue using Array

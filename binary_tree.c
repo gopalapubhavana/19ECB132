@@ -73,7 +73,7 @@ int main() {
 }
 
 
-/* Output
+/* Output:
 Inorder traversal 
 4 ->2 ->1 ->3 ->
 Preorder traversal 

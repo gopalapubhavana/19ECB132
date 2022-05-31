@@ -242,6 +242,7 @@ void search()
     }          
 }  
 /*
+output:
 *********Main Menu*********
 
 Choose one option from the following list ...
