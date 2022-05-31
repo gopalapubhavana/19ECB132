@@ -6,11 +6,11 @@ int main()
 	int i,length;
     int s=0;
     printf("enter a string");
-    scanf("%s",string1);
-    length = strlen(string1);
+    scanf("%s",sprintf);
+    length = strlen(sprintf);
 	for(i=0;i<length;i++)
 	{
-		if(string1[i]1 = string1[length-i-1])
+		if(string1[i])1 = string1[length-i-1];)
 		{
 			s=1;
 			break;
@@ -24,7 +24,6 @@ int main()
 		printf("%s is a palindrome",string1);
 	}
 	return 0;
-	}
 }
 
 

@@ -82,3 +82,16 @@ void displayList()
         }
     }
 } 
+/*
+Linked List : To create and display Singly Linked List :
+-------------------------------------------------------------
+ Input the number of nodes : 3
+ Input data for node 1 : 4
+ Input data for node 2 : 5
+ Input data for node 3 : 6
+
+ Data entered in the list : 
+ Data = 4
+ Data = 5
+ Data = 6
+*/
