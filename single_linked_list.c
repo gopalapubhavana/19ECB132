@@ -82,7 +82,6 @@ void displayList()
         }
     }
 } 
-
 /*
 output:
 Linked List : To create and display Singly Linked List :

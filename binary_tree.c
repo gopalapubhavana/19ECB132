@@ -71,7 +71,6 @@ int main() {
   printf("\nPostorder traversal \n");
   postorderTraversal(root);
 }
-
 /* Output:
 Inorder traversal 
 4 ->2 ->1 ->3 ->
