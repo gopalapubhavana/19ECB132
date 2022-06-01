@@ -12,3 +12,4 @@
 [single_linked_list.c](single%20linked%20list.c)   
 [add_delete_modify_in_single_linked_list.c](add_delete_modify_in_single_linked_list.c)   
 [threaded_binary_tree.c](threaded_binary_tree.c)   
+[binary_search_tree.c](binary_search_tree.c)   
