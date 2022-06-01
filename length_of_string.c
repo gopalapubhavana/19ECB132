@@ -28,6 +28,7 @@ int main()
     isPalindrome("geeks");
     return 0;
 }
+
 /*
 output:
 abba is a palindrome

@@ -132,6 +132,7 @@ int main(void) {
     
   }
 }
+
 /* output:
 
 1. Stack using Array

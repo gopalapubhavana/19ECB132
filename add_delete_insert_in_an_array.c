@@ -77,6 +77,7 @@ int main()
     }
     return
       }   
+
 /*
 output:
 Enter size of array3
