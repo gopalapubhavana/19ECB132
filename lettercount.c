@@ -11,3 +11,9 @@ int main(void) {
   printf("\nThe number of letters in the given sentence are : %d\n", number_of_letters);
   return 0;
 }
+/*
+output:
+Enter a sentence: bhavana
+
+The number of letters in the given sentence are : 7
+*/
