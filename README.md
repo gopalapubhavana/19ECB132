@@ -14,4 +14,5 @@
 [threaded_binary_tree.c](threaded_binary_tree.c)   
 [binary_search_tree.c](binary_search_tree.c)   
 [avl_tree.c](avl_tree.c)   
-[b_tree.c](b_tree.c)   
+[b_tree.c](b_tree.c)    
+[height_of_binary_tree](height_of_binary_tree.c)
